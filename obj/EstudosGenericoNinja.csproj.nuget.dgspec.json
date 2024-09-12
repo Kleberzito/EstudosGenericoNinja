@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\Projetos\\csharp\\EstudosGenericoNinja\\EstudosGenericoNinja.csproj": {}
+    "F:\\Projetos\\csharp\\EstudosGenericoNinja\\EstudosGenericoNinja.csproj": {}
   },
   "projects": {
-    "f:\\Projetos\\csharp\\EstudosGenericoNinja\\EstudosGenericoNinja.csproj": {
+    "F:\\Projetos\\csharp\\EstudosGenericoNinja\\EstudosGenericoNinja.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\Projetos\\csharp\\EstudosGenericoNinja\\EstudosGenericoNinja.csproj",
+        "projectUniqueName": "F:\\Projetos\\csharp\\EstudosGenericoNinja\\EstudosGenericoNinja.csproj",
         "projectName": "EstudosGenericoNinja",
-        "projectPath": "f:\\Projetos\\csharp\\EstudosGenericoNinja\\EstudosGenericoNinja.csproj",
+        "projectPath": "F:\\Projetos\\csharp\\EstudosGenericoNinja\\EstudosGenericoNinja.csproj",
         "packagesPath": "C:\\Users\\klebe\\.nuget\\packages\\",
-        "outputPath": "f:\\Projetos\\csharp\\EstudosGenericoNinja\\obj\\",
+        "outputPath": "F:\\Projetos\\csharp\\EstudosGenericoNinja\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

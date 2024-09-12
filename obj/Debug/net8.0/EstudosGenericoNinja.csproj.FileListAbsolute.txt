@@ -12,3 +12,4 @@ f:\Projetos\csharp\EstudosGenericoNinja\obj\Debug\net8.0\refint\EstudosGenericoN
 f:\Projetos\csharp\EstudosGenericoNinja\obj\Debug\net8.0\EstudosGenericoNinja.pdb
 f:\Projetos\csharp\EstudosGenericoNinja\obj\Debug\net8.0\EstudosGenericoNinja.genruntimeconfig.cache
 f:\Projetos\csharp\EstudosGenericoNinja\obj\Debug\net8.0\ref\EstudosGenericoNinja.dll
+f:\Projetos\csharp\EstudosGenericoNinja\obj\Debug\net8.0\EstudosGenericoNinja.sourcelink.json
