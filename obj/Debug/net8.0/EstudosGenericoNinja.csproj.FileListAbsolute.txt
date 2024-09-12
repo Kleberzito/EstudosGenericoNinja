@@ -1,0 +1,14 @@
+f:\Projetos\csharp\EstudosGenericoNinja\bin\Debug\net8.0\EstudosGenericoNinja.exe
+f:\Projetos\csharp\EstudosGenericoNinja\bin\Debug\net8.0\EstudosGenericoNinja.deps.json
+f:\Projetos\csharp\EstudosGenericoNinja\bin\Debug\net8.0\EstudosGenericoNinja.runtimeconfig.json
+f:\Projetos\csharp\EstudosGenericoNinja\bin\Debug\net8.0\EstudosGenericoNinja.dll
+f:\Projetos\csharp\EstudosGenericoNinja\bin\Debug\net8.0\EstudosGenericoNinja.pdb
+f:\Projetos\csharp\EstudosGenericoNinja\obj\Debug\net8.0\EstudosGenericoNinja.GeneratedMSBuildEditorConfig.editorconfig
+f:\Projetos\csharp\EstudosGenericoNinja\obj\Debug\net8.0\EstudosGenericoNinja.AssemblyInfoInputs.cache
+f:\Projetos\csharp\EstudosGenericoNinja\obj\Debug\net8.0\EstudosGenericoNinja.AssemblyInfo.cs
+f:\Projetos\csharp\EstudosGenericoNinja\obj\Debug\net8.0\EstudosGenericoNinja.csproj.CoreCompileInputs.cache
+f:\Projetos\csharp\EstudosGenericoNinja\obj\Debug\net8.0\EstudosGenericoNinja.dll
+f:\Projetos\csharp\EstudosGenericoNinja\obj\Debug\net8.0\refint\EstudosGenericoNinja.dll
+f:\Projetos\csharp\EstudosGenericoNinja\obj\Debug\net8.0\EstudosGenericoNinja.pdb
+f:\Projetos\csharp\EstudosGenericoNinja\obj\Debug\net8.0\EstudosGenericoNinja.genruntimeconfig.cache
+f:\Projetos\csharp\EstudosGenericoNinja\obj\Debug\net8.0\ref\EstudosGenericoNinja.dll
