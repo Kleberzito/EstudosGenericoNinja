@@ -35,7 +35,7 @@ Segue Exemplo:
 ## Como Executar
 - **Clone o repositório** ou copie o código para o seu ambiente local.
 - **Navegue até a pasta do projeto** no terminal.
-- **Execute o comando** `dotnet` run para compilar e executar a aplicação.
+- **Execute o comando** `dotnet run` para compilar e executar a aplicação.
 
 ### Requisitos
 - .NET SDK instalado
